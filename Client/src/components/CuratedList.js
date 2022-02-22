@@ -35,7 +35,7 @@ const CuratedList = ({list1, list2, list3, onMovieClick, onButtonClick, handleVi
         )
     })
     const setUserView = () => {
-        console.log("test");
+        // console.log("test");
         handleViewChange();
     }
         if(viewUserLists){

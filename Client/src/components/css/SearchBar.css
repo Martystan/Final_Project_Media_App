@@ -10,7 +10,7 @@
 }
 
 .search input{
-    display: flexbox;
+    display: flex;
     background-color:white;
     font-size: 18px;
     padding: 15px;
@@ -18,6 +18,6 @@
 
 .searchButton{
     margin-top: 0px;
-    display: flexbox ;
+    display: flex ;
     
 }
